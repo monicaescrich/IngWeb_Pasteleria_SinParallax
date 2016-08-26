@@ -1,0 +1,16 @@
+<svg width="261" height="62.7" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="64.7" width="263" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_20">
+   <rect stroke="null" x="3.607849" id="svg_21" height="1.68" width="76.459526" y="55.772857"/>
+   <rect stroke="null" id="svg_22" height="1.68" width="80.745245" y="55.772857" x="176.646893"/>
+  </g>
+  <text xml:space="preserve" text-anchor="start" font-family="'Courier New', Courier, monospace" font-size="24" id="svg_26" y="59.725479" x="87.311845" stroke-width="0" stroke="#000" fill="#000000">BAKERY</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Shadows Into Light', serif" font-size="50" id="svg_27" y="40.520049" x="2.71624" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="null" fill="#000000">LORENA'S</text>
+ </g>
+</svg>

@@ -1,0 +1,30 @@
+#hero {
+  height: 800px;
+  overflow: hidden;
+  position: relative;
+}
+#hero2 {
+  height: 800px;
+  overflow: hidden;
+  position: relative;
+}
+.layer {
+  background-position: bottom center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 1080px;
+  position: fixed;
+  z-index: -1;
+}
+.layer-01 {
+  background-image: url("../imagenes/p1.png");
+}
+
+.layer-02 {
+
+  background-image: url("../imagenes/p2.png");
+}
+.layer-03 {
+	background-image: url("../imagenes/p3.png");
+}
