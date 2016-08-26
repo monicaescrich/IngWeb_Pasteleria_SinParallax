@@ -11,7 +11,7 @@
 .mapa-section {
   background-attachment: fixed !important;
   background-size: cover !important;
-  background-image: url('../img/map.jpg');
+  background-color: #332F28;
 }
 
 
@@ -145,19 +145,19 @@ mensaje h3{
 
 
 .slider-galeria img {
-	max-width: 100%;
+	max-width: 120%;
 	width:100%;
 }
 
 
 .iframe_mapa {
-	position:relative;
+	position:static;
 }
 
 
 .iframe_mapa .ratio {
 	display: block;
-	width: 100%;
+	width: 120%;
 	height: 500px;
 }
 
